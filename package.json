@@ -1,6 +1,6 @@
 {
   "name": "gulp-enb-comment",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "mimic enb comments",
   "main": "index.js",
   "scripts": {
