@@ -1,6 +1,6 @@
 gulp-enb-comment
 ================
-[![NPM version](http://img.shields.io/npm/v/gulp-enb-comment.svg?style=flat)](http://www.npmjs.org/package/gulp-enb-comment) [![Build Status](http://img.shields.io/travis/yeti-or/gulp-enb-comment/master.svg?style=flat&label=tests)](https://travis-ci.org/yeti-or/gulp-enb-comment) (https://ci.appveyor.com/project/blond/bem-walk) [![Coverage Status](https://img.shields.io/coveralls/yeti-or/gulp-enb-comment.svg?branch=master&style=flat)](https://coveralls.io/r/yeti-or/gulp-enb-commnet) [![Dependency Status](http://img.shields.io/david/yeti-or/gulp-enb-comment.svg?style=flat)](https://david-dm.org/yeti-or/gulp-enb-comment)
+[![NPM version](http://img.shields.io/npm/v/gulp-enb-comment.svg?style=flat)](http://www.npmjs.org/package/gulp-enb-comment) [![Build Status](http://img.shields.io/travis/Yeti-or/gulp-enb-comment/master.svg?style=flat&label=tests)](https://travis-ci.org/Yeti-or/gulp-enb-comment) [![Coverage Status](https://img.shields.io/coveralls/Yeti-or/gulp-enb-comment.svg?branch=master&style=flat)](https://coveralls.io/r/Yeti-or/gulp-enb-commnet) [![Dependency Status](http://img.shields.io/david/Yeti-or/gulp-enb-comment.svg?style=flat)](https://david-dm.org/Yeti-or/gulp-enb-comment)
 
 
 
