@@ -1,8 +1,12 @@
 {
   "name": "gulp-enb-comment",
-  "version": "0.0.2",
+  "version": "1.0.0",
   "description": "mimic enb comments",
-  "keywords": ["gulp", "enb", "comments"],
+  "keywords": [
+    "gulp",
+    "enb",
+    "comments"
+  ],
   "repository": "https://github.com/Yeti-or/gulp-enb-comment",
   "license": "UNLICENSED",
   "author": "Vasiliy Loginevskiy <yeti.or@gmail.com>",
