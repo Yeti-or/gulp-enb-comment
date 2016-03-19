@@ -5,13 +5,13 @@ var cssComment = function(filePath, contents) {
 	var commentsBegin = '/* ' + filePath + ':begin */\n',
 		commentsEnd = '/* ' + filePath + ':end */';
 	return commentsBegin + contents + commentsEnd;
-}
+};
 
 var jsComment = function(filePath, contents) {
 	var commentsBegin = '/* begin: ' + filePath + ' */\n',
 		commentsEnd = '\n/* end: ' + filePath + ' */';
 	return commentsBegin + contents + commentsEnd;
-}
+};
 
 var comment = function(bundlePath, commentFn) {
     return insert.transform(function(contents, file) {
