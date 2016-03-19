@@ -21,5 +21,5 @@ var comment = function(bundlePath, commentFn) {
 };
 
 module.exports = function(bundlePath) { return comment(bundlePath, cssComment); };
-module.exports.css = function(bundlePath) { return comment(bundlePath, cssComment); };
+module.exports.css = module.exports;
 module.exports.js  = function(bundlePath) { return comment(bundlePath, jsComment); };
